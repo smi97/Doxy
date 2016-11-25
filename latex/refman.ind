@@ -1,0 +1,21 @@
+\begin{theindex}
+
+  \item {Season}
+    \subitem {wheel}, 5
+  \item {Summer}
+    \subitem {wheel}, 5
+
+  \indexspace
+
+  \item {Wheel}
+    \subitem {wheel\+::\+Wheel}, 7
+  \item {wheel}, 5
+    \subitem {Season}, 5
+    \subitem {Summer}, 5
+    \subitem {Winter}, 5
+  \item {wheel\+::\+Wheel}, 7
+    \subitem {Wheel}, 7
+  \item {Winter}
+    \subitem {wheel}, 5
+
+\end{theindex}
